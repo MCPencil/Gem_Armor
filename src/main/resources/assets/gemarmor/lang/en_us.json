@@ -1,0 +1,19 @@
+{
+  "item.gemarmor.gem_crystal": "Gem Crystal",
+  "item.gemarmor.gem_crystal_shard": "Gem Essence",
+
+  "item.gemarmor.gem_sword": "Gem Sword",
+  "item.gemarmor.gem_pickaxe": "Gem Pickaxe",
+  "item.gemarmor.gem_axe": "Gem Axe",
+  "item.gemarmor.gem_shovel": "Gem Shovel",
+  "item.gemarmor.gem_hoe": "Gem Hoe",
+  "item.gemarmor.gem_bow": "Gem Bow",
+  "item.gemarmor.gem_trident": "Gem Trident",
+
+  "item.gemarmor.gem_helmet": "Gem Helmet",
+  "item.gemarmor.gem_chestplate": "Gem Chestplate",
+  "item.gemarmor.gem_leggings": "Gem Leggings",
+  "item.gemarmor.gem_boots": "Gem Boots",
+
+  "block.gemarmor.gem_block": "Gem Block"
+}

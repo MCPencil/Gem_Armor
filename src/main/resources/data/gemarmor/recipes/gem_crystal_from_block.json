@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gemarmor:gem_block"
+    }
+  ],
+  "result": {
+    "item": "gemarmor:gem_crystal",
+    "count": 9
+  }
+}

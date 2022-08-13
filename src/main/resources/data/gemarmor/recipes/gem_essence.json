@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EDE",
+    "DGD",
+    "EDE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "gemarmor:gem_essence",
+    "count": 1
+  }
+}

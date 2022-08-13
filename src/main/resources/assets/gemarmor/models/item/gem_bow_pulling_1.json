@@ -1,0 +1,6 @@
+{
+    "parent": "gemarmor:item/gem_bow",
+    "textures": {
+        "layer0": "gemarmor:item/gem_bow_pulling_1"
+    }
+}

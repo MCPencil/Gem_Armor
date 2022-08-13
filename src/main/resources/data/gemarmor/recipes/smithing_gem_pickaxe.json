@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dragonloot:dragon_pickaxe"
+  },
+  "addition": {
+    "item": "gemarmor:gem_crystal"
+  },
+  "result": {
+    "item": "gemarmor:gem_pickaxe"
+  }
+}

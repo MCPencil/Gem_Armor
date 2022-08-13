@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "gemarmor:gem_crystal"
+    }
+  },
+  "result": {
+    "item": "gemarmor:gem_block",
+    "count": 1
+  }
+}

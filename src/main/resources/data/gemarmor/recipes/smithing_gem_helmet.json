@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dragonloot:dragon_helmet"
+  },
+  "addition": {
+    "item": "gemarmor:gem_crystal"
+  },
+  "result": {
+    "item": "gemarmor:gem_helmet"
+  }
+}

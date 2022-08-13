@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dragonloot:dragon_hoe"
+  },
+  "addition": {
+    "item": "gemarmor:gem_crystal"
+  },
+  "result": {
+    "item": "gemarmor:gem_hoe"
+  }
+}
